@@ -1,0 +1,13 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" fill="#0A0A0A"/>
+  <path d="M0 0H1200V8H0V0Z" fill="#C4EF17"/>
+  <path d="M1080 0H1200V120L1080 0Z" fill="#C4EF17" fill-opacity="0.12"/>
+  <path d="M0 240L120 360H0V240Z" fill="#C4EF17" fill-opacity="0.08"/>
+  <circle cx="1052" cy="75" r="4" fill="#C4EF17"/>
+  <circle cx="1072" cy="75" r="4" fill="#C4EF17" fill-opacity="0.55"/>
+  <circle cx="1092" cy="75" r="4" fill="#C4EF17" fill-opacity="0.25"/>
+  <text x="80" y="116" fill="#C4EF17" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" font-weight="600" letter-spacing="4">FOUNDER · DEVELOPER · SYSTEMS BUILDER</text>
+  <text x="76" y="208" fill="#FFFFFF" font-family="Inter, Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="-2">HAMZA RIZVI</text>
+  <rect x="80" y="244" width="72" height="4" fill="#C4EF17"/>
+  <text x="80" y="298" fill="#A3A3A3" font-family="Inter, Arial, Helvetica, sans-serif" font-size="23" font-weight="400">Secure software. Better web products. Practical AI.</text>
+</svg>
