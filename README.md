@@ -54,12 +54,6 @@ I care about security, maintainable architecture, measurable business outcomes, 
   <img src="https://img.shields.io/badge/GitHub%20Actions-0A0A0A?style=flat-square&logo=githubactions&logoColor=C4EF17" alt="GitHub Actions" />
 </p>
 
-## GitHub activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ihamzarizvi&hide_border=true&background=0A0A0A&ring=C4EF17&fire=C4EF17&currStreakLabel=C4EF17&sideLabels=E8E8E8&dates=A3A3A3&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Hamza Rizvi's GitHub contribution streak" />
-</p>
-
 ---
 
 <p align="center">
